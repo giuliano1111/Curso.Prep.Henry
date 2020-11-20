@@ -1,0 +1,23 @@
+Variables:
+Es la forma de almacenar un valor para luego usalo más tarde.
+
+Strings:
+Es un tipo de dato (valor) que se caracteruzan por ser cadenas de texto.
+Para indicar que un dato es un string tiene que ir entre comillas.
+
+Funciones (argumentos, return)
+Funcion es una porcion de codigo a la que le das un nombre y la podes usar más adelante cuantas veces 
+quieras  invocandola con ese nombre.
+
+Arguemntos son las variables que declaramos en las funciones, para luego darles un valor y obtener resultado. 
+Los argumentos van entre parentesis, y si son mas de uno estan separados por una coma.
+
+Lo que hace return es que devuelve el resulatdo de la funcion fuera de la funcion, osea sin la necesidad de 
+invocar a la funcion.
+
+Declaraciones if
+If es para ver si se cumple una condicion. Se pone if y entre parentesis la condicion que se tiene que cumplir,
+si se cumple la condicion se ejecuta el codigo que esta entre corchetes.
+
+Valores booleanos   (true, false)
+Son valores que solo pueden ser dos opciones, verdadero (true) o falso (false).
